@@ -1,0 +1,11 @@
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\bin\Debug\netcoreapp3.1\ConsoleApp1_deneme.exe
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\bin\Debug\netcoreapp3.1\ConsoleApp1_deneme.deps.json
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\bin\Debug\netcoreapp3.1\ConsoleApp1_deneme.runtimeconfig.json
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\bin\Debug\netcoreapp3.1\ConsoleApp1_deneme.runtimeconfig.dev.json
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\bin\Debug\netcoreapp3.1\ConsoleApp1_deneme.dll
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\bin\Debug\netcoreapp3.1\ConsoleApp1_deneme.pdb
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\obj\Debug\netcoreapp3.1\ConsoleApp1_deneme.csprojAssemblyReference.cache
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\obj\Debug\netcoreapp3.1\ConsoleApp1_deneme.AssemblyInfoInputs.cache
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\obj\Debug\netcoreapp3.1\ConsoleApp1_deneme.AssemblyInfo.cs
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\obj\Debug\netcoreapp3.1\ConsoleApp1_deneme.dll
+C:\Users\büşra\source\repos\ConsoleApp1_deneme\ConsoleApp1_deneme\obj\Debug\netcoreapp3.1\ConsoleApp1_deneme.pdb
