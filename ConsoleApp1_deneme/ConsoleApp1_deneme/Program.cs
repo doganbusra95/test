@@ -6,7 +6,11 @@ namespace ConsoleApp1_deneme
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba Dünya!");
+            string k=Console.ReadLine();
+            string a="Merhaba Dünya!";
+            Console.WriteLine(a);
+
+
         }
     }
 }
